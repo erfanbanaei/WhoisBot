@@ -2,7 +2,6 @@ from pyrogram import *
 from pyrogram.types import *
 import requests
 from pyromod import listen
-from requests.api import get 
 # ====================================================================
 app = Client("MrTak",config_file="config.ini")
 # ====================================================================
